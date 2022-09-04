@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
+.image-replacement {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden
+}
+p {
+    font-family:'Share Tech Mono', monospace;
+    color:greenyellow;
+    font-size: 20px;
+    margin: 0px;
+    
+}
+h1 {
+    font-family:'Share Tech Mono', monospace;
+    color:greenyellow;
+}
+a {
+    font-family:'Share Tech Mono', monospace;
+    color:purple;
+    font-size: 20px;
+    margin: 0px;
+}
+b {
+    font-family:'Share Tech Mono', monospace;
+    color:greenyellow;
+    font-size: 20px;
+    margin: 0px;
+    
+}
